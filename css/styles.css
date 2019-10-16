@@ -1,0 +1,30 @@
+body {
+  background-color: lightblue;
+  margin-left:
+}
+h1 {
+  text-align: center;
+
+}
+
+.dog {
+  width: 300px;
+  border: 15px solid #8cb1d9;
+  padding: 50px;
+  margin: 20px;
+  background-color: #8cb1d9;
+  border-radius: 25px;
+
+}
+
+.column1 {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+.column2 {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
